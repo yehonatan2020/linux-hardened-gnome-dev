@@ -24,7 +24,6 @@ bindkey '^ ' autosuggest-accept
 
 
 neofetch
-version
 
 alias asload="adb sideload"
 alias build=". build/envsetup.sh && lunch"
